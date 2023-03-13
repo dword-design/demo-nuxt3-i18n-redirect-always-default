@@ -1,0 +1,10 @@
+{
+  "name": "try-nuxt3-i18n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nuxtjs/i18n": "^8.0.0-beta.10",
+    "nuxt": "^3.2.3"
+  }
+}
